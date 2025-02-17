@@ -1,0 +1,28 @@
+03/22 08:52:50 TRACE  :...sfesfsefsefesfsefsefs
+03/22 08:51:11 INFO   :.main: rsvpd initialization complete
+03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+03/22 08:52:50 INFO   :.......mailbox_register: mailbox allocated for mailbox
+03/22 08:52:50 TRACE  :...sfesfsefsefesfsefsefsion complete
+03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+03/22 08:52:50 INFO   :.......mailbox_register: mailbox allocated for mailbox
+03/22 08:52:50 TRACE  :...sfesfsefsefesfsefsefs
+03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+03/22 08:52:50 INFO   :.......mailbox_register: mailbox allocated for mailbox
+03/22 08:52:50 TRACE  :...sfesfsefsefesfsefsefs
+03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+03/22 08:52:50 INFO   :.......mailbox_register: mailbox allocated for mailbox
+03/22 08:52:50 TRACE  :...sfesfsefsefesfsefsefsLine: 1 03/22 08:52:50 INFO   :.......mailbox_register: mailbox allocated for mailbox
+Line: 2 03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+Line: 3 03/22 08:51:11 INFO   :.main: rsvpd initialization complete
+Line: 4 03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+Line: 5 03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+Line: 6 03/22 08:52:50 TRACE  :...sfesfsefsefesfsefsefs
+Line: 7 03/22 08:51:11 INFO   :.main: rsvpd initialization complete
+Line: 8 03/22 08:52:50 TRACE  :...sfesfsefsefesfsefsefs
+Line: 9 03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+Line: 10 03/22 08:52:50 INFO   :.......mailbox_register: mailbox allocated for mailbox
+Line: 11 03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+Line: 1 03/22 08:52:50 INFO   :.......mailbox_register: mailbox allocated for mailbox
+Line: 2 03/22 08:52:50 TRACE  :...sfesfsefsefesfsefsefs
+Line: 3 03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
+Line: 4 03/22 08:52:50 INFO   :......rsvp_api_open: accepted a new connection for rapi
